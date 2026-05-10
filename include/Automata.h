@@ -36,7 +36,6 @@ class Automata {
   void cook();
   void finish();
 
-  // Дополнительные методы для тестирования
   STATES getCurrentState() const;
   int getCash() const;
   int getPrice(int index) const;
