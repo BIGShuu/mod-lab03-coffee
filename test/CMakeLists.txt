@@ -1,3 +1,4 @@
+# Copyright 2026 UNN-IASR
 cmake_minimum_required(VERSION 3.5)
 
 set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
